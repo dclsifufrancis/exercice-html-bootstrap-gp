@@ -3,6 +3,18 @@
     padding: 0;
 }
 
-.container {
-    padding-top: 1%;
+H2 {
+    font-size: 1.5rem;
+}
+
+figcaption {
+    padding: 5%;
+}
+
+nav {
+    margin-top: 1%;
+}
+
+section {
+    margin-top: 2%;
 }
